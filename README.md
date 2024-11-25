@@ -9,9 +9,7 @@
 
 [Site du projet](https://webinfo.iutmontp.univ-montp2.fr/~bonsc/Projetweb/web/controleurFrontal.php)
 
-# Lien du dépôt GitHub
-
-[Depot GitHub](https://gitlabinfo.iutmontp.univ-montp2.fr/robina/projetweb-a2)
+![image](https://github.com/user-attachments/assets/9b1879e4-fab4-42e3-809f-102de9f371b3)
 
 # Répartition du travail et Pourcentage de réalisation
 
