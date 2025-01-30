@@ -67,11 +67,7 @@ Si vous souhaitez exécuter ce projet en local :
    cd ton-depot
    ```
 
-3. **Importez la base de données** :
-   - Ouvrez PHPMyAdmin et créez une base de données
-   - Importez le fichier SQL fourni dans `/database`
-
-4. **Lancez un serveur local** (ex: XAMPP, WAMP) et ouvrez le projet dans votre navigateur.
+3. **Lancez un serveur local** (ex: XAMPP, WAMP) et ouvrez le projet dans votre navigateur.
 
 ## Contributions
 Les contributions sont les bienvenues !
